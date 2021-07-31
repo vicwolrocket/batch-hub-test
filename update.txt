@@ -1,3 +1,0 @@
-@echo off
-call download scratchnet.github.io/network/projects/scratchnet.txt test
-call updatedone
