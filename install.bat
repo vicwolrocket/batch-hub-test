@@ -8,4 +8,4 @@ cd..
 cd server
 xcopy /i /s "%dir%" "primitive-cloud-server"
 cd primitive-cloud-server
-npm install
+npm.cmd install
