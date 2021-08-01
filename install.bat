@@ -11,4 +11,7 @@ xcopy /i /s "%dir%" "primitive-cloud-server"
 cd primitive-cloud-server
 npm.cmd install
 cd..
-start-server
+echo.
+echo Now type in
+echo start-server
+echo.
